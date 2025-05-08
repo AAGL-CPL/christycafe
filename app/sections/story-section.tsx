@@ -37,7 +37,7 @@ export default function StorySection() {
         <div>
           <h2 className="text-3xl font-serif text-[#5c3a21] mb-6">Our Story</h2>
           <p className="text-[#5c3a21] mb-4">
-            Founded in 2008, Café's began with a simple mission: to serve exceptional coffee with unparalleled
+            Founded in 2025, Café's began with a simple mission: to serve exceptional coffee with unparalleled
             hospitality. Our experienced team has built a thriving establishment that celebrates the art of coffee
             making.
           </p>

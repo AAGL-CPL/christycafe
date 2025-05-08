@@ -23,10 +23,10 @@ export default function HeroSection() {
         <Button
           className="bg-[#8b5a2b] hover:bg-[#6d4522] text-white px-8 py-2 rounded"
           onClick={() => {
-            document.getElementById("story")?.scrollIntoView({ behavior: "smooth" })
+            document.getElementById("visit")?.scrollIntoView({ behavior: "smooth" })
           }}
         >
-          DISCOVER MORE
+          Visit Us
         </Button>
       </div>
     </section>

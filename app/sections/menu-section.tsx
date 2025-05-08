@@ -80,7 +80,7 @@ const quickBites = [
     name: "Samosa (3 Pieces)",
     price: "$2.49",
     description: "the Samosa is a savory, satisfying snack. A perfect balance of crunch and spice in every bite!",
-    image: "/images/q9.svg?height=150&width=150",
+    image: "/images/samosa.svg?height=150&width=150",
   },
 
 ]
